@@ -14,7 +14,7 @@ class Home extends Component {
   render() {
     return (
       <Container>
-        <h1>Landing Page</h1>
+        <h1>East Asian Street Foods</h1>
         <Navbar/>
         <Button>Click here!</Button>
       </Container>
